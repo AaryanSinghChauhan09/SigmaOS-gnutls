@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-gnutls"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS gnutls component - security"
+
+[lib]
+name = "gnutls"
+path = "src/lib.rs"
