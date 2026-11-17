@@ -3,7 +3,7 @@ name = "SigmaOS-gnutls"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "gnutls component"
+description = "GnuTLS"
 upstream = []
 
 [contract]
